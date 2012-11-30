@@ -8,6 +8,7 @@ Working:
 * Graphics
 * Sound
 * Wifi
+* Tethering
 * Bluetooth
 * Sensors
 * GPS
